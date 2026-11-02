@@ -103,5 +103,8 @@
     "stylelint-config-sass-guidelines": "^7.1.0",
     "stylelint-scss": "^3.18.0",
     "ts-node": "^10.8.0"
+  },
+  "overrides": {
+    "minimatch@>=9.0.0 <9.0.7": "9.0.7"
   }
 }
